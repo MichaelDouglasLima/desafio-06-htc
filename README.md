@@ -1,1 +1,1 @@
-# desafio-06-htc
+# Desafio 06 HTC
